@@ -1,5 +1,5 @@
 class Solution {
-    public int maxScore(String s) {
+    public int maxScore(String s) {     // this code has three approches ,this is the better approches(2nd approch),and it has a best approch too
         int n = s.length();
         int result = Integer.MIN_VALUE;
         int totalcount1 = 0;
