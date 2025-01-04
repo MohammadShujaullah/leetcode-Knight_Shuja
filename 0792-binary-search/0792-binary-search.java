@@ -10,7 +10,7 @@ class Solution {
         if (nums[mid] == target) {
             return mid;
         } else if (nums[mid] < target) {
-            return solve(nums, mid + 1, r, target);
+            return solve(nums, mid + 1, r, target);   // time complexity is LOG(n)  /// space complexity is O(1)
         } else {
             return solve(nums, l, mid - 1, target);
         }
