@@ -1,8 +1,8 @@
 class Solution {
     private int searchPivote(int[] nums, int n) {
 
-        int l = 0;
-        int r = n - 1;
+        int l = 0;                     // SAME QUESTION NO.33 ,ONLY DIFFRENCE IS THE DUPLICATE ELEMENTS PRESENCE 
+        int r = n - 1;                 /// TIME -->LOG(N)   SPACE-->O(1)
 
         while (l < r) {
             while (l < r && nums[l] == nums[l + 1]) {
