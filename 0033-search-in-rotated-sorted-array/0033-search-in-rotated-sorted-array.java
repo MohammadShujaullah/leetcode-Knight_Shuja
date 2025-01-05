@@ -1,5 +1,6 @@
 // search the target in two partitioned array, 
-//patition by pivoted element or smallest 
+//partition by pivoted element or smallest 
+//then apply binary search in both side of array partion by index of smallest element of array
 
 class Solution {
     private int searchPivote(int[] nums, int n) {
