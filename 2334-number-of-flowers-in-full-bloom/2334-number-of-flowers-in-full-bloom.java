@@ -8,7 +8,7 @@ class Solution {
         int end_time[] = new int[m];
 
         for (int i = 0; i < m; i++) {
-            start_time[i] = flowers[i][0];
+            start_time[i] = flowers[i][0];  // separating the start and the end of growing as well as died of the flower 
             end_time[i] = flowers[i][1];
 
         }
@@ -26,7 +26,7 @@ class Solution {
 
     }
 
-    private int binarysearchupperbond(int[] arr, int target) {
+    private int binarysearchupperbond(int[] arr, int target) {        // to find the just greater no. of the element
         int left = 0;
         int right = arr.length - 1;
         int result = -1;
@@ -44,7 +44,7 @@ class Solution {
 
     }
 
-    private int binarysearchlowerbond(int[] arr, int target) {
+    private int binarysearchlowerbond(int[] arr, int target) {    // to find the greater or equal to number 
         int left = 0;
         int right = arr.length - 1;
         int result = -1;
