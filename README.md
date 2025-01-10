@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0978-valid-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1646-kth-missing-positive-number) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1646-kth-missing-positive-number) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Matrix
 |  |
@@ -86,5 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
+## Hash Table
+|  |
+| ------- |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Ordered Set
+|  |
+| ------- |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
