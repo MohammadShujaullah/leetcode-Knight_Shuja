@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0540-single-element-in-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0074-search-a-2d-matrix) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Tree
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2094-remove-stones-to-minimize-the-total) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
