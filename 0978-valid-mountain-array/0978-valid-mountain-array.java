@@ -11,7 +11,7 @@ class Solution {
             int curr = arr[i];
             int next = arr[i + 1];
 
-            if (prev==curr || curr == next) {
+            if (prev==curr || curr == next) { //if previous is equal to curr and current is equal to next 
                 return false;
             }
             if (prev>curr && curr < next) { // no vally should be occurs
