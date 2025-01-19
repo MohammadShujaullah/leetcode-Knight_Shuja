@@ -5,7 +5,7 @@
 var createCounter = function(n) {
      let count=n;
     return function() { 
-        count++;
+        count++;      //we have to first  increase the count then return the no. and so on
      return count-1;
       
         
