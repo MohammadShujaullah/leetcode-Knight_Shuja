@@ -12,7 +12,7 @@ class Solution {
         int i = 0;
         int j = 0;
         while (i < w1.length()) {
-            if (w1.charAt(i) == w2.charAt(j)) {
+            if (w1.charAt(i) == w2.charAt(j)) {// comparing the character with each other
                 i++;
                 j++;
             } else {
