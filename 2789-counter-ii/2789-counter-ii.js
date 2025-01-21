@@ -2,8 +2,8 @@
  * @param {integer} init
  * @return { increment: Function, decrement: Function, reset: Function }
  */
- var createCounter = function(init) {
-  let presentCount = init;
+ var createCounter = function(init) {   
+  let presentCount = init;   // we have to take   variable  to store the init ,so that we can make change in the varible , ot in init
 
   function increment() {
     return ++presentCount;
