@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0450-delete-node-in-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0450-delete-node-in-a-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Interactive
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
