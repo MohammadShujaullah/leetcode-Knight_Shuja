@@ -1,10 +1,11 @@
 class Solution {
-    private void DFS(Map<Integer, ArrayList<Integer>> mp, int u, boolean visited[]) {
+    int n;
+    private void DFS( int[][] isConnected, int u, boolean visited[]) {
         visited[u] = true;
 
-        for (int v : mp.get(u)) {
-            if (!visited[v]) {
-                DFS(mp, v, visited);
+        for (int v=0;v<n;v++) {
+            if (!visited[v] &&  isConnected[u][v]==1) {
+                DFS( isConnected, v, visited);
             }
 
         }
@@ -15,7 +16,7 @@ class Solution {
 
         // IN THIS question we can see no. of provinces can be find ,by no. of dfs call
         // make by graph ,when there is disconnected grapg also present
-        int n = isConnected.length;
+         n = isConnected.length;
 
         Map<Integer, ArrayList<Integer>> mp = new HashMap<>();
         for (int i = 0; i < n; i++) {
@@ -35,7 +36,8 @@ class Solution {
         boolean visited[] = new boolean[mp.size()];
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
-                DFS(mp, i, visited);
+                DFS( isConnected, i, visited); // this DFS is upto when one province is ends, then return back to this line and
+                                     // then we increse count
                 count++;
             }
         }
