@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0606-construct-string-from-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0547-number-of-provinces) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
@@ -190,5 +192,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
