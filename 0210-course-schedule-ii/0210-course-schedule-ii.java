@@ -48,13 +48,15 @@ class Solution {
         // step 3 BFS
         while (!q.isEmpty()) {
             int u = q.remove();
-            for (int v : mp.getOrDefault(u, new ArrayList<>())) {
-                indegree[v]--;
-                if (indegree[v] == 0) {
-                    q.add(v);
-                    count++;
+            if (mp.get(u) != null) {
+                for (int v : mp.get(u)) {
+                    indegree[v]--;
+                    if (indegree[v] == 0) {
+                        q.add(v);
+                        count++;
 
-                    result.add(v);
+                        result.add(v);
+                    }
                 }
             }
         }
