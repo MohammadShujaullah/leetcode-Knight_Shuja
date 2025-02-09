@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0606-construct-string-from-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0606-construct-string-from-binary-tree) |
+| [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0978-valid-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0978-valid-mountain-array) |
+| [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
 | [1185-find-in-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1185-find-in-mountain-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Heap (Priority Queue)
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
