@@ -5,8 +5,8 @@ class Solution {// you should use the hashmap to make the time complexity to O(n
         int n = num;
 
         while (n > 0) {
-            int x = n % 10;
-            sum += x;
+            sum += n % 10;
+
             n = n / 10;
         }
         return sum;
@@ -15,10 +15,10 @@ class Solution {// you should use the hashmap to make the time complexity to O(n
     public int maximumSum(int[] nums) {
 
         HashMap<Integer, Integer> mp = new HashMap<>(); // sum,num
-
+        int sum =0;
         int maxesum = -1;
         for (int num : nums) {
-            int sum = getdigitSum(num);
+             sum = getdigitSum(num);
 
             // if another number with same number sum exist ,then update the maxesum
             if (mp.containsKey(sum)) {
@@ -27,7 +27,8 @@ class Solution {// you should use the hashmap to make the time complexity to O(n
             }
 
             // **update the maximum number for this digit sum**
-            mp.put(sum, Math.max(mp.getOrDefault(sum,0), num));
+            /* v.v.i line */
+            mp.put(sum, Math.max(mp.getOrDefault(sum, 0), num));
 
         }
 
