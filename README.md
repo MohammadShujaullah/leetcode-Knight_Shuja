@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
 | [1185-find-in-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1185-find-in-mountain-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1646-kth-missing-positive-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -243,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
