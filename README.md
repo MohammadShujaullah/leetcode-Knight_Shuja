@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0978-valid-mountain-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1185-find-in-mountain-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Tree
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0801-is-graph-bipartite](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
