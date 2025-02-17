@@ -1,5 +1,17 @@
 import java.util.*;
 
+class Node {
+    int key;
+    int value1;
+    int value2;
+
+    public Node(int key, int value1, int value2) {
+        this.key = key;
+        this.value1 = value1;
+        this.value2 = value2;
+    }
+}
+
 class Solution {
     private boolean isSafe(int x, int y, int[][] grid) {
         return (x >= 0 && x < grid.length && y >= 0 && y < grid[0].length);
@@ -19,41 +31,41 @@ class Solution {
             return -1;
 
         }
-        Queue<AbstractMap.SimpleEntry<Integer, Integer>> q = new LinkedList<>();
+        int[][] result = new int[n][m]; /// decalaration of result
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                result[i][j] = Integer.MAX_VALUE;
+            }
+        }
 
-        q.add(new AbstractMap.SimpleEntry<>(0, 0));
-        grid[0][0] = 1; // visited
+        PriorityQueue<Node> pq = new PriorityQueue<>(Comparator.comparingInt(l -> l.key));
+        pq.add(new Node(0, 0, 0));
+        result[0][0] = 0;
 
-        int level = 0;
+        while (!pq.isEmpty()) {
 
-        while (!q.isEmpty()) {
-            int N = q.size();
-            while (N-- > 0) {
-                AbstractMap.SimpleEntry<Integer, Integer> pair = q.poll();
-                int a = pair.getKey();
-                int b = pair.getValue();
+            Node pair = pq.poll();
+            int dist = pair.key;
+            int a = pair.value1;
+            int b = pair.value2;
 
-                if (a == n - 1 && b == m - 1) {
-                    return level + 1;
-
-                }
-                for (int[] s : directions) {
-                    int x_ = a + s[0];
-                    int y_ = b + s[1];
-                    if (isSafe(x_, y_, grid) && grid[x_][y_] == 0) {
-                        q.add(new AbstractMap.SimpleEntry<>(x_, y_));
-                        grid[x_][y_] = 1;
-
-                    }
+            for (int[] s : directions) {
+                int x_ = a + s[0];
+                int y_ = b + s[1];
+                int d = 1;
+                if (isSafe(x_, y_, grid) && grid[x_][y_] == 0 && d + dist < result[x_][y_]) {
+                    pq.add(new Node(d + dist, x_, y_));
+                    result[x_][y_] = d + dist;
 
                 }
 
             }
-            level++;
 
         }
-
-        return -1;
+        if (result[n - 1][m - 1] == Integer.MAX_VALUE) {
+            return -1;
+        }
+        return result[n - 1][m - 1] + 1;
 
     }
 }
