@@ -28,10 +28,7 @@ class Solution {
         int n = heights.length;
         int m = heights[0].length;
 
-        if (n == 0 || m == 0) {
-            return -1;
-
-        }
+       
         // result is used to store the minimum effort ,asked in the question
         int[][] result = new int[n][m];
         for (int i = 0; i < n; i++) {
@@ -46,12 +43,15 @@ class Solution {
 
         pq.add(new Node(0, 0, 0));
         while (!pq.isEmpty()) {
-            Node pair = pq.poll();
+            Node pair = pq.poll();   //  time log(n)
 
             int dist = pair.key;
 
             int a = pair.value1;
             int b = pair.value2;
+            if(a==n-1 && b==m-1){    // when we reach at last of the cell , then the current dist is the answer
+                return dist;          
+            }
 
             for (int[] s : directions) {
                 int x_ = a + s[0];
