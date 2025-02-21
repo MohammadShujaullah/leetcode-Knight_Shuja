@@ -12,7 +12,7 @@ class Solution {
             }
         }
 
-        // now reversing the 1st column with last column
+        // now reversing the each row
         for(int i=0;i<m;i++){
             int start=0;
             int end=m-1;
