@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1646-kth-missing-positive-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1646-kth-missing-positive-number) |
+| [1706-min-cost-to-connect-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1753-path-with-minimum-effort) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1706-min-cost-to-connect-all-points) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
