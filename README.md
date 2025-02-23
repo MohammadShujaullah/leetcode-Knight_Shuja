@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0606-construct-string-from-binary-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1706-min-cost-to-connect-all-points) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
