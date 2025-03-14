@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-valid-arrangement-of-pairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2201-valid-arrangement-of-pairs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1706-min-cost-to-connect-all-points) |
 | [2201-valid-arrangement-of-pairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2201-valid-arrangement-of-pairs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
 | ------- |
