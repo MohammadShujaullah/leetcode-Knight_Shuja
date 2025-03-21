@@ -14,6 +14,8 @@ class Solution {
     }
     public int climbStairs(int n) {
         // firstly we do ,with brute force approch
+        // by memoization
+        // by bottom up approch
 
        
         int dp[]=new int [n+1];
