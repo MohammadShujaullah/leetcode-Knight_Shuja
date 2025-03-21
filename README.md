@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0319-bulb-switcher) |
 ## Simulation
 |  |
@@ -367,10 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
