@@ -1,23 +1,28 @@
 class Solution {
     // without memoization ,the code giving me TLE,so use Memo
-    int t[];
 
-    private int solve(int[] nums, int i, int n) {
-        if (i >= nums.length) {
-            return 0;
-        }
 
-        if (t[i] != -1)
-            return t[i];
+    // int t[];
 
-        int steal = nums[i] + solve(nums, i + 2, n);
-        int skip = solve(nums, i + 1, n);
+    // private int solve(int[] nums, int i, int n) {     // top down approch.
+    //     if (i >= nums.length) {
+    //         return 0;
+    //     }
 
-        return t[i] = Math.max(steal, skip);
+    //     if (t[i] != -1)
+    //         return t[i];
 
-    }
+    //     int steal = nums[i] + solve(nums, i + 2, n);
+    //     int skip = solve(nums, i + 1, n);
+
+    //     return t[i] = Math.max(steal, skip);
+
+    // }
 
     public int rob(int[] nums) {
+
+
+        // Bottom up approch 
        int n= nums.length;
        if(n==1){
         return nums[0];
