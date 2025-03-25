@@ -28,10 +28,26 @@ class Solution {
 
         // we have to simply apply dfs, and check visited[distination]!=false
 
-        boolean visited[] = new boolean[n];
-        if (!visited[source]) {
-            DFS(mp, source, visited);
+        // or
 
+        Queue<Integer> q = new LinkedList<>();
+        boolean visited[] = new boolean[n];
+        q.add(source);
+
+        while (!q.isEmpty()) {
+
+            int x = q.remove();
+
+            visited[x] = true;
+
+            for (int v : mp.get(x)) {
+                if (!visited[v]) {
+                    visited[v] = true;
+
+                    q.add(v);
+
+                }
+            }
         }
 
         return visited[destination];
