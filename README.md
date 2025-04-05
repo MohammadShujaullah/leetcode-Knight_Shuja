@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0606-construct-string-from-binary-tree) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0208-implement-trie-prefix-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0208-implement-trie-prefix-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0860-design-circular-queue](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0860-design-circular-queue) |
