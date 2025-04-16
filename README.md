@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1646-kth-missing-positive-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1876-map-of-highest-peak) |
@@ -422,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0021-merge-two-sorted-lists) |
 | [2050-count-good-numbers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2050-count-good-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
