@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0813-all-paths-from-source-to-target) |
 ## Segment Tree
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2308-divide-array-into-equal-pairs) |
 ## Recursion
 |  |
