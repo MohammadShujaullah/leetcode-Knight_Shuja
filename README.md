@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0208-implement-trie-prefix-tree) |
