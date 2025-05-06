@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0207-course-schedule) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0210-course-schedule-ii) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0297-serialize-and-deserialize-binary-tree) |
