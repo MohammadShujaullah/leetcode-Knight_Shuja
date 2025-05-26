@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
+| [2470-removing-stars-from-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search Tree
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0232-implement-queue-using-stacks) |
+| [2470-removing-stars-from-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3447-clear-digits) |
 ## Design
 |  |
