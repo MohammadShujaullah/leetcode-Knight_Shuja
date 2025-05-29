@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
 | [1646-kth-missing-positive-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1706-min-cost-to-connect-all-points) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
+| [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3790-fruits-into-baskets-ii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0232-implement-queue-using-stacks) |
+| [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3447-clear-digits) |
 ## Design
