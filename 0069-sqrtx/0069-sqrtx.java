@@ -3,6 +3,7 @@ class Solution {
         int left=1;
         int right=x;
         int ans=0;
+        if(x==0 ||x==1) return x;
 
 
         while(left<=right){
