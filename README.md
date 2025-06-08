@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2455-node-with-highest-edge-score](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2455-node-with-highest-edge-score) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Ordered Set
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1753-path-with-minimum-effort) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Math
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0232-implement-queue-using-stacks) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2470-removing-stars-from-a-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3447-clear-digits) |
 ## Design
 |  |
