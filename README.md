@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0048-rotate-image) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0075-sort-colors) |
