@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0213-house-robber-ii) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Memoization
 |  |
 | ------- |
