@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2050-count-good-numbers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
