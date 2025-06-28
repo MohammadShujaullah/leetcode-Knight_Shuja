@@ -1,19 +1,33 @@
-class Solution{
-    public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int t[] = new int[n];
-        Arrays.fill(t, 1); // initially all the element has its own subsequence , which is itself
-        int maxLIS=1;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (nums[j] < nums[i]  ) { // second condition is , that if mere piich wala subsequence bda ha ,to for main update krunga , lekin agr mera kud ka subsequnce bda ha to kyun update krunga
-                   t[i]=Math.max(t[i],t[j]+1);
-                   maxLIS=Math.max( maxLIS,t[i]);
+ class Solution {
+    int t[][];
 
-                }
-            }
+    private int solve(int p, int idx, int nums[]) {
+        if (idx >= nums.length)
+            return 0;
+
+        int skip = 0;
+        int take = 0;
+        if ( p!=-1 && t[idx][p] != -1) // after memoization the time reduce from O(2^n) to O(n^2)
+            return t[idx][p];
+        if (p == -1 || nums[p] < nums[idx]) {
+
+            take = solve(idx, idx + 1, nums) + 1;
+        }
+        skip = solve(p, idx + 1, nums);
+        if(p!=-1){
+            t[idx][p] = Math.max(skip, take);
         }
 
-        return  maxLIS;
+        return Math.max(skip, take);
+
+    }
+
+    public int lengthOfLIS(int[] nums) {
+        int n = nums.length;
+        t = new int[n + 1][n + 1];
+        for (int[] row : t)
+            Arrays.fill(row, -1);
+
+        return solve(-1, 0, nums); // p is the previous index
     }
 }
