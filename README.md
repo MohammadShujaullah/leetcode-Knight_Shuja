@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0648-replace-words) |
 | [0792-binary-search](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0792-binary-search) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0502-ipo) |
+| [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0646-maximum-length-of-pair-chain) |
 | [0917-boats-to-save-people](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0917-boats-to-save-people) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0208-implement-trie-prefix-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0648-replace-words) |
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bucket Sort
