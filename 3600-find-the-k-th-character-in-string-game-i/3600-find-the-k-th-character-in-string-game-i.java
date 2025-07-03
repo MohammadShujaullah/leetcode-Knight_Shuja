@@ -1,17 +1,18 @@
 class Solution {
+
     public char kthCharacter(int k) {
-        StringBuilder sb1 = new StringBuilder("a");
+        String binary = Integer.toBinaryString(k - 1);
 
-        while (sb1.length() < k) {
-            StringBuilder sb2 = new StringBuilder();
-            for (int i = 0; i < sb1.length(); i++) {
-                char ch = (char)(sb1.charAt(i) + 1); // Fixing '1' addition too
-                sb2.append(sb1.charAt(i));  // optional: keep original
-                sb2.append(ch);
+        int num2 = Integer.parseInt(binary);
+        int count = 0;
+        while (num2 > 0) {
+            int num = num2 % 10;
+            if (num == 1) {
+                count++;
             }
-            sb1 = sb2;
-        }
+            num2 /= 10;
 
-        return sb1.charAt(k - 1);
+        }
+        return (char) ('a' + count);
     }
 }
