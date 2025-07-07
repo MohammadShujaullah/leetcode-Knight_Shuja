@@ -13,8 +13,12 @@ class Solution {
 
         int i = 0;
         while (!pq.isEmpty() || i < n) {
+            if (pq.isEmpty()) {
+                day = events[i][0];
+            }
 
             while (i < n && events[i][0] == day) { // adding same start element to pq, to sort according to their end 
+
                 pq.add(events[i][1]);
 
                 i++;
@@ -29,10 +33,9 @@ class Solution {
 
             day++;
 
-
             // skip those events whose end day  is less than the current day 
 
-            while(!pq.isEmpty() && pq.peek()<day){
+            while (!pq.isEmpty() && pq.peek() < day) {
                 pq.remove();
 
             }
