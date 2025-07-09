@@ -2,49 +2,47 @@ import java.util.*;
 
 class Solution {
     int n;
-    int[][] dp;
+    //2 element are changing ,so take 2D dp
+    int DP[][];
 
-    public int solve(int[][] events, int i, int k) {
-        if (k <= 0 || i >= n)
+    private int solve(int idx, int[][] events, int k) {
+        if (idx >= events.length || k <= 0) {
             return 0;
+        }
 
-        if (dp[i][k] != -1)
-            return dp[i][k];
+        if (DP[idx][k] != -1) {
+            return DP[idx][k];
+        }
 
-        int start = events[i][0];
-        int end = events[i][1];
-        int value = events[i][2];
+        //inplace of linear search we use binary search ,
+        // Binary Search to find the next non-overlapping event
+        int low = idx + 1, high = n;
+        int next = n;
+        while (low < high) {
+            int mid = (low + high) / 2;
+            if (events[mid][0] > events[idx][1]) {
+                next = mid;
+                high = mid;
+            } else {
+                low = mid + 1;
+            }
+        }
 
-        // find the next event index where start time > end time of current event
-        int nextIndex = upperBound(events, end);
-
-        int take = value + solve(events, nextIndex, k - 1);
-        int skip = solve(events, i + 1, k);
-
-        return dp[i][k] = Math.max(take, skip);
+        int take = events[idx][2] + solve(next, events, k - 1);
+        int skip = solve(idx + 1, events, k);
+        return DP[idx][k] = Math.max(take, skip);
     }
 
     public int maxValue(int[][] events, int k) {
-        Arrays.sort(events, Comparator.comparingInt(a -> a[0]));
         n = events.length;
-        dp = new int[n + 1][k + 1];
+        DP = new int[n + 1][k + 1];
 
-        for (int[] row : dp)
-            Arrays.fill(row, -1);
+        for (int i = 0; i <= n; i++) {
+            Arrays.fill(DP[i], -1);
 
-        return solve(events, 0, k);
-    }
-
-    // Helper function to perform upper_bound manually
-    private int upperBound(int[][] events, int targetEnd) {
-        int left = 0, right = n;
-        while (left < right) {
-            int mid = (left + right) / 2;
-            if (events[mid][0] <= targetEnd)
-                left = mid + 1;
-            else
-                right = mid;
         }
-        return left;
+        Arrays.sort(events, (a, b) -> Integer.compare(a[0], b[0]));
+        return solve(0, events, k);
     }
+
 }
