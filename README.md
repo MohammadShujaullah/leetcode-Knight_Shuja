@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2294-minimum-time-to-complete-trips](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1753-path-with-minimum-effort) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
