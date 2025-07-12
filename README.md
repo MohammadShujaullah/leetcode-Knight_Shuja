@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1236-n-th-tribonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Bit Manipulation
 |  |
