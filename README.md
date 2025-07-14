@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0319-bulb-switcher) |
 | [1236-n-th-tribonacci-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2050-count-good-numbers) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0092-reverse-linked-list-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0860-design-circular-queue](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0860-design-circular-queue) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
