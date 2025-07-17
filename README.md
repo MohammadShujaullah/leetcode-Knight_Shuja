@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3430-count-days-without-meetings) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
