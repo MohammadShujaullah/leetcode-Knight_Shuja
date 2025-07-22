@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3790-fruits-into-baskets-ii) |
 ## Eulerian Circuit
 |  |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
@@ -625,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
