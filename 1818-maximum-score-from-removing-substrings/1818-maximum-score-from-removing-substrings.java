@@ -1,23 +1,40 @@
 class Solution {
 
     private String removeSubstr(String s, String matchStr) {
-        Stack<Character> st = new Stack<>();
-        StringBuilder sb = new StringBuilder();
+        // Stack<Character> st = new Stack<>();
+        // StringBuilder sb = new StringBuilder();
 
-        for (char ch : s.toCharArray()) {
-            if (ch == matchStr.charAt(1) && !st.isEmpty() && st.peek() == matchStr.charAt(0)) {
-                st.pop();
-            } else {
-                st.push(ch);
+        // for (char ch : s.toCharArray()) {
+        //     if (ch == matchStr.charAt(1) && !st.isEmpty() && st.peek() == matchStr.charAt(0)) {
+        //         st.pop();
+        //     } else {
+        //         st.push(ch);
+        //     }                       
+        // }
+
+        // while (!st.isEmpty()) {
+        //     sb.append(st.pop());
+
+        // }
+
+        // return sb.reverse().toString();
+
+   //---------------------15.77% beats   space C.  O(n);---------- 
+
+         StringBuilder sb = new StringBuilder();
+
+         int j=0;
+         for(int i=0;i<s.length();i++){
+            sb.append(s.charAt(i));
+            j++;
+
+            if(j>1 && sb.charAt(j-2)==matchStr.charAt(0)  && sb.charAt(j-1)==matchStr.charAt(1)){
+                sb.delete(j-2,j);
+                j-=2;
             }
-        }
+         }
 
-        while (!st.isEmpty()) {
-            sb.append(st.pop());
-
-        }
-
-        return sb.reverse().toString();
+         return sb.toString();
 
     }
 
