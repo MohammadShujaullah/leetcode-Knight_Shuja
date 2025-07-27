@@ -16,11 +16,11 @@ class Solution {
                 ans = Math.max(ans, nums[i]);
 
             } 
-            // else {     // ismain sirf whi case ayega, jo element set main  already han
-            //     currsum-=nums[i];
-            //     currsum += nums[i];      // thses two lines is only for understanding that ,that we remove duplicate and then again add the new one 
-            //      ans = Math.max(ans, currsum);
-            // }
+            else {     // ismain sirf whi case ayega, jo element set main  already han
+                currsum-=nums[i];
+                currsum += nums[i];      // thses two lines is only for understanding that ,that we remove duplicate and then again add the new one 
+                 ans = Math.max(ans, currsum);
+            }
         }
         return ans;
 
