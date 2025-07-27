@@ -11,13 +11,13 @@ class Solution {
                 ans = Math.max(ans, currsum);
 
             } 
-            else if (nums[i] < 0) {
-
+            else if (nums[i] < 0) {     // this is fro when array contains only negative element or some negative element in the array
+    
                 ans = Math.max(ans, nums[i]);
 
-            } else {
-                currsum-=nums[i];
-                currsum += nums[i];
+            } else {     // ismain sirf whi case ayega, jo element set main  already han
+                // currsum-=nums[i];
+                // currsum += nums[i];
                  ans = Math.max(ans, currsum);
             }
         }
