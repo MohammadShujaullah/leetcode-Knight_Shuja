@@ -10,15 +10,15 @@ class Solution {
             return 0;
         }
 
-        if(t[idx][curror]!=-1){
-            return t[idx][curror];
+        // if(t[idx][curror]!=-1){
+        //     return t[idx][curror];
 
-        }
+        // }
 
         int takecount = countSubsets(idx + 1, nums, curror | nums[idx], maxor);
         int skipcount = countSubsets(idx + 1, nums, curror, maxor);
 
-        return t[idx][curror]=takecount + skipcount;
+        return  takecount + skipcount;
     }
 
     public int countMaxOrSubsets(int[] nums) {
