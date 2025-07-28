@@ -30,9 +30,9 @@ class Solution {
         t = new int[n + 1][maxor + 1];
 
 
-        for (int row[] : t) {
-            Arrays.fill(row, -1);
-        }
+        // for (int row[] : t) {
+        //     Arrays.fill(row, -1);
+        // }
 
         int curror = 0;
         return countSubsets(0, nums, curror, maxor);
