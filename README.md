@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0198-house-robber) |
