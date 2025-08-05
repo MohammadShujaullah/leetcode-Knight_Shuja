@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0232-implement-queue-using-stacks) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1818-maximum-score-from-removing-substrings) |
