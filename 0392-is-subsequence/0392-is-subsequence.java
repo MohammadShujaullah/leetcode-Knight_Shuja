@@ -12,11 +12,10 @@ class Solution {
         int j = 0;
         while (i < n && j < m) {
             if (s.charAt(j) == t.charAt(i)) {
-                i++;
+
                 j++;
-            } else {
-                i++;
             }
+            i++;
 
         }
 
