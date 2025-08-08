@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
