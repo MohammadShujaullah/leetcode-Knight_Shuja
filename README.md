@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0606-construct-string-from-binary-tree) |
 | [0648-replace-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0648-replace-words) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0917-boats-to-save-people) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0646-maximum-length-of-pair-chain) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
