@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0516-longest-palindromic-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0606-construct-string-from-binary-tree) |
 | [0648-replace-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0648-replace-words) |
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0646-maximum-length-of-pair-chain) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
