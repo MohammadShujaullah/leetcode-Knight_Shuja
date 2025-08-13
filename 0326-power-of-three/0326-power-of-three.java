@@ -24,9 +24,13 @@ class Solution {
         //----------------------------------------------------------
 
         //taking log on both side and then find only the value of x ,as it must be avalid int , so that n will be a power of 3
-         if(n<=0)return false; 
-        double x = Math.log10(n) / Math.log10(3);
-        return x == (int) x;
+        //  if(n<=0)return false; 
+        // double x = Math.log10(n) / Math.log10(3);
+        // return x == (int) x;
+        
+        //----------------------------------------------------------
+        return n>0 &&  1162261467%n==0;
+
 
     }
 }
