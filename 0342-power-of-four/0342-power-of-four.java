@@ -31,5 +31,11 @@ class Solution {
 
        return x==(int)x;
 
+
+
+//-------------------------------- through direct rang of int -------------------
+
+// return (n>0 && 1073741824%n==0);             /// it only passes 1048/1063 test cases
+
     }
 }
