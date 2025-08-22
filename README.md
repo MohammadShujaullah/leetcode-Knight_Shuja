@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2050-count-good-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0319-bulb-switcher) |
+| [2481-strictly-palindromic-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Backtracking
 |  |
