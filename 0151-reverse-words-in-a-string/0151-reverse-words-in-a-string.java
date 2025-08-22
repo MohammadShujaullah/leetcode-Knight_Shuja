@@ -32,12 +32,12 @@ class Solution {
         }
 
         // Remove multiple spaces in the middle
-        for (int i = 1; i < sb.length(); i++) {
-            if (sb.charAt(i) == ' ' && sb.charAt(i - 1) == ' ') {
-                sb.deleteCharAt(i);
-                i--; // recheck after deletion
-            }
-        }
+        // for (int i = 1; i < sb.length(); i++) {
+        //     if (sb.charAt(i) == ' ' && sb.charAt(i - 1) == ' ') {
+        //         sb.deleteCharAt(i);
+        //         i--; // recheck after deletion
+        //     }
+        // }
 
         return sb.toString();
     }
