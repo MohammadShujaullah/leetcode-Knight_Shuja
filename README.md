@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0078-subsets) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2260-divide-a-string-into-groups-of-size-k) |
