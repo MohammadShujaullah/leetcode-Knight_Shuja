@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
