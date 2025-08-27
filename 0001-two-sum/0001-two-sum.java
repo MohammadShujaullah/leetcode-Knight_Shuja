@@ -14,13 +14,13 @@ class Solution {
 
         int n = nums.length;
         HashMap<Integer,Integer>mp=new HashMap<>();
-        int ans[]=new int[2];
+        
         for(int i=0;i<n;i++){
-           int complement=target-nums[i];
+           int complement=nums[i];
            if(mp.containsKey(complement)){
              return new int[]{mp.get(complement),i};
            }
-           mp.put(nums[i],i);
+           mp.put(target-nums[i],i);
 
         }
 
