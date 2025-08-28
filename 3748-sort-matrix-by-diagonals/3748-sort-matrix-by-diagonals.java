@@ -51,7 +51,7 @@ class Solution {
 
     
 
-    // same to same the question 
+    // same to same the question 1329---------sort the diagonal--------------------   do it by some changes in it -----
     public int[][] sortMatrix(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
