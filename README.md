@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3568-find-the-key-of-the-numbers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3568-find-the-key-of-the-numbers) |
