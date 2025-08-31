@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0560-subarray-sum-equals-k) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1603-running-sum-of-1d-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1185-find-in-mountain-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
 | [1753-path-with-minimum-effort](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1753-path-with-minimum-effort) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0648-replace-words) |
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
