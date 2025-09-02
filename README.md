@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0213-house-robber-ii) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0342-power-of-four) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0917-boats-to-save-people) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
