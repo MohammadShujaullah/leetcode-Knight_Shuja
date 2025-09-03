@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1753-path-with-minimum-effort) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -733,4 +737,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
