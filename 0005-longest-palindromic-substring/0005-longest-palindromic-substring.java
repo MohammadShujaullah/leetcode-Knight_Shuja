@@ -44,5 +44,10 @@ class Solution {
 
         return s.substring(start,start+maxlength);  // exclusive index at right
 
+
+
+      /// ----------------------------------------
+      //method 2 from codeMik  take s1 and take s  
+
     }
 }
