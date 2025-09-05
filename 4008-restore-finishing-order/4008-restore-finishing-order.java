@@ -6,22 +6,20 @@ class Solution {
             friendset.add(f);
 
         }
-        List<Integer> result = new ArrayList<>();
+       int result[]=new int[friends.length];
 
+          int i=0;
         for (int id : order) {
             if (friendset.contains(id)) {
-                result.add(id);
+                result[i]=id;
+                i++;
 
             }
         }
 
-        int ans[]=new int [result.size()];
-        for(int i=0;i<result.size();i++){
-            ans[i]=result.get(i);
+      
 
-        }
-
-        return ans;
+        return result;
 
        
 
