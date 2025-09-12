@@ -1,8 +1,8 @@
 class Solution {
 
     private boolean isVowel(char ch) {
-        if (ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U' || ch == 'a' || ch == 'e' || ch == 'i'
-                || ch == 'o' || ch == 'u') {
+        char m = Character.toLowerCase(ch);
+        if (m == 'a' || m == 'e' || m == 'i'|| m == 'o' || m == 'u') {
             return true;
         }
         return false;
@@ -27,7 +27,7 @@ class Solution {
     //     return sb.toString();
 
     // }
- public String sortVowels(String s) {
+    public String sortVowels(String s) {
         Map<Character, Integer> map = new HashMap<>();
 
         for (char ch : s.toCharArray()) {
