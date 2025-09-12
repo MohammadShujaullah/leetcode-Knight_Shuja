@@ -21,7 +21,7 @@ class Solution {
         if (count == 0)
             return false;
 
-        if (count % 2 == 1)
+        if (count % 2 == 1 || count%2==0)
             return true;
         
         // boolean oddtrue=true;
@@ -42,7 +42,7 @@ class Solution {
         // }
         // return false;    
 
-        if(count%2==0)return true;
+      
 
 
         return false;
