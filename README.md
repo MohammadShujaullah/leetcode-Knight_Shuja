@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Ordered Set
 |  |
 | ------- |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Shortest Path
 |  |
 | ------- |
