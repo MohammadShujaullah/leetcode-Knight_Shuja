@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0051-n-queens) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0151-reverse-words-in-a-string) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0503-next-greater-element-ii) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0119-pascals-triangle-ii) |
@@ -779,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0503-next-greater-element-ii) |
 ## Game Theory
