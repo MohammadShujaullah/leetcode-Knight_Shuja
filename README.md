@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2455-node-with-highest-edge-score](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2455-node-with-highest-edge-score) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3872-find-most-frequent-vowel-and-consonant) |
