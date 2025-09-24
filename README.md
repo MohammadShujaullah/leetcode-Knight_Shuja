@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0368-largest-divisible-subset) |
 | [1236-n-th-tribonacci-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1236-n-th-tribonacci-number) |
+| [1279-prime-arrangements](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1279-prime-arrangements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1448-maximum-69-number) |
