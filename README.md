@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0540-single-element-in-a-sorted-array) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0147-insertion-sort-list) |
+| [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0496-next-greater-element-i) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0342-power-of-four) |
@@ -752,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0491-non-decreasing-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0934-bitwise-ors-of-subarrays) |
