@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0303-range-sum-query-immutable) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0491-non-decreasing-subsequences) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0643-maximum-average-subarray-i) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1351-replace-the-substring-for-balanced-string) |
