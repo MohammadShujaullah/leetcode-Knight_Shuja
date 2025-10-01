@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0978-valid-mountain-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1036-rotting-oranges) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0648-replace-words) |
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
+| [0940-fruit-into-baskets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0940-fruit-into-baskets) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0940-fruit-into-baskets) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1813-maximum-erasure-value](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
