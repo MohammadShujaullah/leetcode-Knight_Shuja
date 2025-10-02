@@ -1,20 +1,20 @@
 class Solution {
-
     public int maxProfit(int[] prices) {
-       int maxprice=0;
-       int currprice=0;
-       
-       int smallest=Integer.MAX_VALUE;
-       for(int price:prices){
-            if(price<smallest){
-                smallest=price;
-            }
+        //as this question is solved through brute force in O(n2) time ,, which is very simple 
 
-            currprice=price-smallest;
+        // but we can use Kadane algorithm in it forO(n) time 
 
-            maxprice=Math.max(currprice,maxprice);
-       }
+        int maxprofit = 0; // as we have to find maxprofit at every element , and alsao check that ,is it a minprice or not 
+        int minprice = Integer.MAX_VALUE;
 
-       return maxprice;
+        for (int i = 0; i < prices.length; i++) {
+            minprice = Math.min(minprice, prices[i]);
+
+            maxprofit = Math.max(maxprofit, (prices[i] - minprice));
+
+        }
+
+        return maxprofit;
+
     }
 }
