@@ -1,55 +1,41 @@
 class Solution {
+    private void solveright(int height[], int right[]) {
+        int n=height.length;
+     right[n-1]=height[n-1];
 
-    // we have to track of maximum element at left side and right side , and then take minimum of it ,
-    // then take diffrence with the element , to find the hieght of that element 
+        for (int i = height.length - 2; i >= 0; i--) {
 
-    // you can also see diffrent method to find the left and right max from chatGPT(max element approch )
-
-
-
-
-    private void findMax1(int leftArr[], int height[]) {
-
-        leftArr[0] = height[0]; // first ewlement always as max of their left 
-
-        for (int i = 1; i < height.length; i++) {
-            leftArr[i] = Math.max(leftArr[i - 1], height[i]);
+          right[i]=Math.max(right[i+1],height[i]);
 
         }
-
     }
 
-    private void findMax2(int rightArr[], int height[]) {
-        int n = height.length;
+    private void solveleft(int height[], int left[]) {
+       left[0]=height[0];
 
-        rightArr[n - 1] = height[n - 1]; // last element always as max of their right
 
-        for (int i = n - 2; i >= 0; i--) {
-            rightArr[i] = Math.max(rightArr[i + 1], height[i]);
-
+        for (int i = 1; i < height.length; i++) {
+          left[i]=Math.max(left[i-1],height[i]);
+   
         }
-
     }
 
     public int trap(int[] height) {
-        int n = height.length;
+        int left[] = new int[height.length];
+        int right[] = new int[height.length];
 
-        int rightArr[] = new int[n];
-        int leftArr[] = new int[n];
+        solveleft(height, left);
 
-        findMax2(rightArr, height);
-        findMax1(leftArr, height);
+        solveright(height, right);
 
-        int sum = 0;
+        int count = 0;
 
-        for (int i = 0; i < n; i++) {
-            int h = Math.min(rightArr[i], leftArr[i]) - height[i];
-
-            sum += h;
+        for (int i = 0; i < height.length; i++) {
+           count+=Math.min(left[i],right[i])-height[i];
 
         }
 
-        return sum;
+        return count;
 
     }
 }
