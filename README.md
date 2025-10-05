@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0648-replace-words) |
+| [0739-daily-temperatures](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0860-design-circular-queue) |
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2470-removing-stars-from-a-string) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0739-daily-temperatures) |
 ## Game Theory
 |  |
 | ------- |
