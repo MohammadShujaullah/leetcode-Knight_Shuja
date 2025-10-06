@@ -1,4 +1,4 @@
- class Solution {
+class Solution {
 
     public String longestCommonPrefix(String[] strs) {
         StringBuilder result= new StringBuilder();
@@ -20,5 +20,5 @@
         }
 return result.toString();
     }
- }
 
+}
