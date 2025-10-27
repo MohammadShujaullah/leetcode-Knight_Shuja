@@ -1,21 +1,32 @@
 class Solution {
     public boolean hasIncreasingSubarrays(List<Integer> nums, int k) {
-        int n = nums.size();
+        int prev = 0;
+        int curr = 1;
 
-        for (int start = 0; start + 2 * k <= n; start++) {
-            boolean firstInc = isIncreasing(nums, start, start + k-1);
-            boolean secondInc = isIncreasing(nums, start + k, start + 2 * k-1);
-            if (firstInc && secondInc)
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums.get(i) > nums.get(i - 1)) {
+                curr++;
+
+                if (curr / 2 >= k) {
+                    return true;
+                }
+
+            }
+
+            else {
+                prev = curr;
+                curr = 1;
+            }
+
+            if (prev / 2 >= k)
                 return true;
-        }
-        return false;
-    }
 
-    private boolean isIncreasing(List<Integer> nums, int start, int end) {
-        for (int i = start + 1; i <= end; i++) {
-            if (nums.get(i) <= nums.get(i - 1))
-                return false;
+            if (Math.min(prev, curr) >= k) {
+                return true;
+            }
+
         }
-        return true;
+
+        return false;
     }
 }
