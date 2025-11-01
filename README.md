@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
