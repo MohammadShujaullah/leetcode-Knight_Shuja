@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2470-removing-stars-from-a-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2573-remove-nodes-from-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3447-clear-digits) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2050-count-good-numbers) |
+| [2573-remove-nodes-from-linked-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2573-remove-nodes-from-linked-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2573-remove-nodes-from-linked-list) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Game Theory
 |  |
