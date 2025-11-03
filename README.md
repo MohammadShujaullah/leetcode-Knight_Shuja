@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0147-insertion-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0237-delete-node-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0860-design-circular-queue](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
