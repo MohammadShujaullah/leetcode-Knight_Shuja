@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2164-two-best-non-overlapping-events) |
+| [2169-simple-bank-system](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2169-simple-bank-system](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2308-divide-array-into-equal-pairs) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
+| [2169-simple-bank-system](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2169-simple-bank-system](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2169-simple-bank-system) |
 | [3797-design-spreadsheet](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
