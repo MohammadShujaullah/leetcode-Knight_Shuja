@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1500-count-largest-group) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2050-count-good-numbers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2050-count-good-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2324-find-triangular-sum-of-an-array) |
