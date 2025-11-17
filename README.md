@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0978-valid-mountain-array) |
+| [0985-bag-of-tokens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0985-bag-of-tokens) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0646-maximum-length-of-pair-chain) |
 | [0917-boats-to-save-people](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0985-bag-of-tokens) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0646-maximum-length-of-pair-chain) |
 | [0917-boats-to-save-people](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2320-find-all-k-distant-indices-in-an-array) |
