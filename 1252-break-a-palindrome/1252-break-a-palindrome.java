@@ -1,10 +1,4 @@
 class Solution {
-    private boolean isPalindrome(StringBuilder sb) {
-        StringBuilder ss = new StringBuilder(sb);
-        String rev = ss.reverse().toString();
-
-        return (rev.equals(sb.toString()));
-    }
 
     public String breakPalindrome(String palindrome) {
         StringBuilder sb = new StringBuilder(palindrome);
@@ -14,9 +8,7 @@ class Solution {
 
                 sb.setCharAt(i, 'a');
 
-                if (!isPalindrome(sb)) {
-                    return sb.toString();
-                }
+                return sb.toString();
 
             }
         }
