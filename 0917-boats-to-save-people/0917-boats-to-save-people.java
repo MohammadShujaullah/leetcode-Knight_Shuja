@@ -1,4 +1,8 @@
 class Solution {
+    // we have to carry only 2 persons at a boat and  if we carry the heviest 
+    //and lightest thenits correct , and heviest is enough for one boat then ,
+    // escap ehte heviest the man  
+
     public int numRescueBoats(int[] people, int limit) {
         int n = people.length;
         int i = 0, j = n - 1;
