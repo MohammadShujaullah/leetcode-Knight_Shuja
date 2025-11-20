@@ -24,22 +24,39 @@ class Solution {
     //     return count;
     // }
 
+    // public int brokenCalc(int startValue, int target) {
+    //     int res = 0;
+
+    //     while (target != startValue) {
+    //         if (target % 2 == 0 && target > startValue) {
+    //             target /= 2;
+    //             res += 1;
+    //         } else if (target % 2 != 0) {
+    //             target += 1;
+    //             res += 1;
+    //         } else if (target <= startValue) {
+    //             return startValue - target;
+    //         }
+    //     }
+
+    //     return res;
+
+    // }
+
     public int brokenCalc(int startValue, int target) {
         int res = 0;
-        while (target != startValue) {
-            if (target % 2 == 0 && target > startValue) {
-                target /= 2;
-                res += 1;
-            } else if (target % 2 != 0) {
-                target += 1;
-                res += 1;
-            } else if (target < startValue) {
-                target += 1;
-                res += 1;
-            }
+
+        if (startValue >= target) {
+            return startValue - target;
+
         }
 
-        return res;
+        if (target % 2 == 0) {
+            return 1 + brokenCalc(startValue, target / 2);
+
+        }
+
+        return 1 + brokenCalc(startValue, target + 1);
 
     }
 }
