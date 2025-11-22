@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
