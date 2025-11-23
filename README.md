@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1185-find-in-mountain-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1252-break-a-palindrome) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
