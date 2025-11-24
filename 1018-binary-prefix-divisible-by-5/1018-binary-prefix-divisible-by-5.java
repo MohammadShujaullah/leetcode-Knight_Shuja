@@ -1,6 +1,7 @@
 class Solution {
 
     // 2 important thingsa in this problem is, 1. is the no. will go very large as binary no. goes larger, so take modulo 5, every time , means only store the remainer is enogh, not the full no. 
+    // as the remainer will be only 0,1,2,3,4
     // 2. we just have to shift the number , and add the next no. , or just multiply by 2 and add the next number
 
     public List<Boolean> prefixesDivBy5(int[] nums) {
