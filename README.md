@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2358-number-of-ways-to-split-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Array
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3430-count-days-without-meetings) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-node-with-highest-edge-score](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2455-node-with-highest-edge-score) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
