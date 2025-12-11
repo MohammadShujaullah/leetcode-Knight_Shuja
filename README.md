@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3430-count-days-without-meetings) |
+| [3531-count-covered-buildings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3531-count-covered-buildings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
