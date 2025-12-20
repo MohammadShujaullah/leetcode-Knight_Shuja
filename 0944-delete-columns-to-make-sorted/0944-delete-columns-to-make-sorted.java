@@ -7,33 +7,17 @@ class Solution {
 
         int count = 0;
 
-        if (n == 2) {
-            while (j < m) {
+        while (j < m) {
 
-                for (int i = 1; i < n; i++) {
+            for (int i = 1; i < n; i++) {
 
-                    if ((strs[i].charAt(j) - 'a' < strs[i - 1].charAt(j) - 'a')) {
-                        count++;
-                        break;
-                    }
-
+                if ((strs[i].charAt(j) - 'a' < strs[i - 1].charAt(j) - 'a')) {
+                    count++;
+                    break;
                 }
-                j++;
+
             }
-        } else {
-            while (j < m) {
-
-                for (int i = 1; i < n - 1; i++) {
-
-                    if ((strs[i].charAt(j) - 'a' < strs[i - 1].charAt(j) - 'a')
-                            || (strs[i].charAt(j) - 'a' > strs[i + 1].charAt(j) - 'a')) {
-                        count++;
-                        break;
-                    }
-
-                }
-                j++;
-            }
+            j++;
         }
 
         return count;
