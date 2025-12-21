@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0648-replace-words) |
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1032-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1170-shortest-common-supersequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0978-valid-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0978-valid-mountain-array) |
 | [0985-bag-of-tokens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0985-bag-of-tokens) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0759-set-intersection-size-at-least-two) |
 | [0917-boats-to-save-people](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0917-boats-to-save-people) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0985-bag-of-tokens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1252-break-a-palindrome) |
