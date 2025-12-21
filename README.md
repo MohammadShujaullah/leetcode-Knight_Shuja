@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2455-node-with-highest-edge-score](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2455-node-with-highest-edge-score) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
