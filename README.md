@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3074-apple-redistribution-into-boxes](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3074-apple-redistribution-into-boxes) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3074-apple-redistribution-into-boxes](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3074-apple-redistribution-into-boxes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3430-count-days-without-meetings) |
 | [3531-count-covered-buildings](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3531-count-covered-buildings) |
