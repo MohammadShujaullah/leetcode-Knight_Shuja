@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0840-magic-squares-in-grid) |
 | [0860-design-circular-queue](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0860-design-circular-queue) |
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
+| [0840-magic-squares-in-grid](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1073-number-of-enclaves) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0648-replace-words) |
+| [0840-magic-squares-in-grid](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0840-magic-squares-in-grid) |
 | [0869-similar-string-groups](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0869-similar-string-groups) |
 | [0940-fruit-into-baskets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0940-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0368-largest-divisible-subset) |
+| [0840-magic-squares-in-grid](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1033-broken-calculator) |
 | [1236-n-th-tribonacci-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1236-n-th-tribonacci-number) |
