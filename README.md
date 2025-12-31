@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2405-optimal-partition-of-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2405-optimal-partition-of-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2405-optimal-partition-of-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2405-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2308-divide-array-into-equal-pairs) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2405-optimal-partition-of-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2405-optimal-partition-of-string) |
 | [2455-node-with-highest-edge-score](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2455-node-with-highest-edge-score) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
