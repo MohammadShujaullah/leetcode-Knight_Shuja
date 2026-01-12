@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1185-find-in-mountain-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1033-broken-calculator) |
 | [1236-n-th-tribonacci-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1266-minimum-time-visiting-all-points) |
 | [1279-prime-arrangements](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1279-prime-arrangements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1013,4 +1015,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1833-maximum-ice-cream-bars) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
