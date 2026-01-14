@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3790-fruits-into-baskets-ii) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3797-design-spreadsheet](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Sorting
 |  |
 | ------- |
