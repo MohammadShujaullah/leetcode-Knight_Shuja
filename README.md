@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1920-build-array-from-permutation) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2054-two-best-non-overlapping-events) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2054-two-best-non-overlapping-events) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0940-fruit-into-baskets) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1813-maximum-erasure-value](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
