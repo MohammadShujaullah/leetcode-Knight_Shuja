@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1185-find-in-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1266-minimum-time-visiting-all-points) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1352-maximum-profit-in-job-scheduling) |
