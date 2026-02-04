@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3790-fruits-into-baskets-ii) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3797-design-spreadsheet](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3797-design-spreadsheet) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Binary Search
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-maximum-balanced-subsequence-sum](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3790-fruits-into-baskets-ii) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Matrix
 |  |
 | ------- |
