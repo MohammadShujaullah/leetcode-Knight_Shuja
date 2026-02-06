@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3797-design-spreadsheet](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3797-design-spreadsheet) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3790-fruits-into-baskets-ii) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Matrix
 |  |
 | ------- |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Recursion
 |  |
 | ------- |
@@ -996,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Doubly-Linked List
 |  |
 | ------- |
