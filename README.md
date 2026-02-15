@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0151-reverse-words-in-a-string) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0189-rotate-array) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1920-build-array-from-permutation) |
@@ -970,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0342-power-of-four) |
