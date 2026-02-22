@@ -978,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0491-non-decreasing-subsequences) |
+| [0868-binary-gap](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1930-unique-length-3-palindromic-subsequences) |
