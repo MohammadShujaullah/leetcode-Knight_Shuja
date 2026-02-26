@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1552-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1920-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2169-simple-bank-system) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2308-divide-array-into-equal-pairs) |
