@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0113-path-sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0491-non-decreasing-subsequences) |
 | [0813-all-paths-from-source-to-target](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/0813-all-paths-from-source-to-target) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MohammadShujaullah/leetcode-Knight_Shuja/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Segment Tree
 |  |
